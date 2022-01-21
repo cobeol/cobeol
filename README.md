@@ -1,0 +1,1 @@
+- I am cobeol, the general planner and developer of the Coriket project. (+ coding beginner)
