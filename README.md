@@ -1,1 +1,1 @@
-- I am cobeol, the general planner and developer of the Coriket project. (+ coding beginner)
+- 코리켓 프로젝트 기획자이자 개발자인 코벌입니다
